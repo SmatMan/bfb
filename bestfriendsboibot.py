@@ -21,4 +21,4 @@ async def hi(ctx):
 
 
     
-bot.run("NTQ3Nzg2NjcwNTExMDk1ODIw.D071uQ.UoYdNPLttxs68KmQBPMLbBu4HNU")
+bot.run("NTQ3Nzg2NjcwNTExMDk1ODIw.D09LeQ.cc5WPe-5O1dWIB9JwQS6Zwox4rY")
